@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<XML-File xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Properties>
+    <Property>
+      <Property_Ref_No>UNT-56578</Property_Ref_No>
+      <Property_purpose>Rent</Property_purpose>
+      <Property_Type>Apartment</Property_Type>
+      <City>Ajman</City>
+      <Locality>Nakheel 2</Locality>
+      <Sub_Locality>Dewan Towers</Sub_Locality>
+      <Tower_Name>Al Dewan A</Tower_Name>
+      <Property_Size>1759.5600000000</Property_Size>
+      <Bedrooms>2</Bedrooms>
+      <Bathroom>3</Bathroom>
+      <Price>54000.0000</Price>
+      <Features>
+        <Feature>Centrally Air-Conditioned</Feature>
+        <Feature>Satellite/Cable TV</Feature>
+        <Feature>CCTV Security</Feature>
+        <Feature>Parking Spaces</Feature>
+        <Feature>Facilities for Disabled</Feature>
+        <Feature>Security Staff</Feature>
+        <Feature>Maintenance Staff</Feature>
+        <Feature>Waste Disposal</Feature>
+      </Features>
+      <Listing_Agent>IBRAHIM MAHMOUD IBRAHIM HASSAN</Listing_Agent>
+      <Listing_Agent_Phone>+971543087733</Listing_Agent_Phone>
+      <Listing_Agent_Email>imahmoud@aqaar.com</Listing_Agent_Email>
+      <Property_Title>Dewan Towers | Al Dewan A | 605</Property_Title>
+      <Property_Title_AR>أبراج الديوان | A الديوان | 605</Property_Title_AR>
+      <Property_Description>Dewan Towers represents a forward-thinking approach to real estate development, designed to integrate seamlessly with its surroundings while offering a range of properties to suit diverse requirements. The development is a thoughtful combination of residential and commercial spaces, ensuring a balance between work, life, and leisure.
+The project focuses on creating a sustainable and adaptable environment. Its residential units range from compact apartments ideal for singles or couples to larger family apartments, all designed with flexibility and functionality in mind. Commercial spaces are equally versatile, catering to small businesses, retail outlets, or offices.</Property_Description>
+      <Property_Description_AR>يمثل هذا المشروع واحد من أنجح المشاريع للتطوير العقاري، مصممًا للتكامل بسلاسة مع المناطق المحيطة به مع تقديم مجموعة من العقارات التي تناسب المتطلبات المتنوعة. التطوير عبارة عن مزيج مدروس من المساحات السكنية والتجارية، مما يضمن التوازن بين العمل والحياة والترفيه.
+يركز المشروع على خلق بيئة مستدامة وقابلة للتكيف. تتراوح وحداتها السكنية من الشقق المدمجة المثالية للأفراد أو الأزواج إلى الشقق العائلية الأكبر حجمًا، وجميعها مصممة مع أخذ المرونة والعملية في الاعتبار. تتميز المساحات التجارية بأنها متعددة الاستخدامات، فهي تلبي احتياجات الشركات الصغيرة أو منافذ البيع بالتجزئة أو المكاتب</Property_Description_AR>
+      <Images>
+        <Image>https://res.cloudinary.com/dotdjffbb/image/upload/v1727777382/Aqaar/Main%20Portal/building/images/Al_Dewan_A/image00021-1727777382.jpg</Image>
+        <Image>https://res.cloudinary.com/dotdjffbb/image/upload/v1727777383/Aqaar/Main%20Portal/building/images/Al_Dewan_A/image00023-1727777383.jpg</Image>
+        <Image>https://res.cloudinary.com/dotdjffbb/image/upload/v1727777384/Aqaar/Main%20Portal/building/images/Al_Dewan_A/image00005-1727777384.jpg</Image>
+        <Image>https://res.cloudinary.com/dotdjffbb/image/upload/v1727777386/Aqaar/Main%20Portal/building/images/Al_Dewan_A/image00010-1727777385.jpg</Image>
+        <Image>https://res.cloudinary.com/dotdjffbb/image/upload/v1727777597/Aqaar/Main%20Portal/building/images/Al_Dewan_A/image00016-1727777597.jpg</Image>
+      </Images>
+      <Floor_Plans>
+        <Floor_Plan>https://res.cloudinary.com/dotdjffbb/image/upload/v1726688750/Aqaar/Main%20Portal/Aqaar%20Floor%20Plan/29-Dewan%20Bldg/IMAGE/UNT-56578_elgbqg.jpg</Floor_Plan>
+      </Floor_Plans>
+      <Rent_Frequency>Yearly</Rent_Frequency>
+      <Off_Plan>No</Off_Plan>
+      <Furnished>No</Furnished>
+      <Portals>
+        <Portal>Bayut</Portal>
+        <Portal>Dubizzle</Portal>
+      </Portals>
+      <Property_Status>Live</Property_Status>
+      <Property_Size_Unit>SQFT</Property_Size_Unit>
+      <Last_Updated>03-06-2025 08:27:38</Last_Updated>
+    </Property>
+  </Properties>
+</XML-File>
